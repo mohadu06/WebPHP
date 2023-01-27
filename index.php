@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>Test PHP</title>
+<title>Ma page</title>
 </head>
 <body>
-<?php echo '<p>Bonjour le monde</p>'; ?>
+<p>Welcom to my app</p>
 </body>
 </html>
